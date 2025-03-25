@@ -1,0 +1,22 @@
+{
+  "firmalar": {
+    "Espressolab": ["espressolab.com"],
+    "D&R": ["dr.com.tr"],
+    "İdefix": ["idefix.com"],
+    "İstikbal": ["istikbal.com.tr"],
+    "Kilim Mobilya": ["kilimmobilya.com.tr"],
+    "Demirören AVM": ["demirorenavm.com.tr"],
+    "Ülker": ["ulker.com.tr"],
+    "Türkpetrol": ["turkpetrol.com.tr"],
+    "Likidgaz": ["likidgaz.com.tr"],
+    "Milangaz": ["milangaz.com.tr"],
+    "TRT": ["trt.com.tr"],
+    "TGRT": ["tgrt.com.tr"],
+    "CNN TÜRK": ["cnnturk.com"],
+    "Milli Piyango": ["millipiyango.gov.tr"],
+    "İddia com": ["iddia.com"],
+    "Misli com": ["misli.com"],
+    "ETS Tur": ["etstur.com"]
+  },
+  "lastUpdated": "2025-03-25"
+}
