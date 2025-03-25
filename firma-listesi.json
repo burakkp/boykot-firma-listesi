@@ -1,22 +1,74 @@
 {
   "firmalar": {
-    "Espressolab": ["espressolab.com"],
-    "D&R": ["dr.com.tr"],
-    "İdefix": ["idefix.com"],
-    "İstikbal": ["istikbal.com.tr"],
-    "Kilim Mobilya": ["kilimmobilya.com.tr"],
-    "Demirören AVM": ["demirorenavm.com.tr"],
-    "Ülker": ["ulker.com.tr"],
-    "Türkpetrol": ["turkpetrol.com.tr"],
-    "Likidgaz": ["likidgaz.com.tr"],
-    "Milangaz": ["milangaz.com.tr"],
-    "TRT": ["trt.com.tr"],
-    "TGRT": ["tgrt.com.tr"],
-    "CNN TÜRK": ["cnnturk.com"],
-    "Milli Piyango": ["millipiyango.gov.tr"],
-    "İddia com": ["iddia.com"],
-    "Misli com": ["misli.com"],
-    "ETS Tur": ["etstur.com"]
+    "Yıldız Holding": {
+      "domain": ["yildizholding.com.tr"],
+      "kategori": "Tepe Şirket",
+      "altFirmalar": {
+        "Gıda ve Atıştırmalık": {
+          "Ülker": ["ulker.com.tr"],
+          "pladis": ["pladisglobal.com"],
+          "Godiva": ["godiva.com"],
+          "United Biscuits": ["unitedbiscuits.com", "mcvities.com", "jacobs.com", "carrs.com"],
+          "DeMet’s": ["demetscandy.com"],
+          "Besler": ["besler.com.tr"],
+          "Kerevitaş": ["kerevitas.com.tr", "superfresh.com.tr"],
+          "Aytaç": ["aytac.com.tr"],
+          "Adapazarı Şeker": ["adapazariseker.com.tr"],
+          "Nissin Yıldız": ["makarneks.com"],
+          "Alpella": ["alpella.com.tr"],
+          "Obaçay": ["obacay.com.tr"],
+          "Doğa Çay": ["dogacay.com.tr"]
+        },
+        "Perakende": {
+          "Şok Marketler": ["sokmarket.com.tr"],
+          "Bizim Toptan": ["bizimtoptan.com.tr"],
+          "Seç Market": ["secmarket.com.tr"]
+        },
+        "Diğer": {
+          "Penta Teknoloji": ["pentateknoloji.com.tr"],
+          "Gözde Girişim": ["gozdegirisim.com.tr"],
+          "Doruk Unlu Mamuller": ["uno.com.tr", "komsufirin.com"]
+        }
+      }
+    },
+    "Diğer Firmalar": {
+      "domain": [],
+      "kategori": "Bağımsız",
+      "altFirmalar": {
+        "Kahve": {
+          "Espressolab": ["espressolab.com"]
+        },
+        "Kitap ve Kültür": {
+          "D&R": ["dr.com.tr"],
+          "İdefix": ["idefix.com"]
+        },
+        "Mobilya": {
+          "İstikbal": ["istikbal.com.tr"],
+          "Kilim Mobilya": ["kilimmobilya.com.tr"]
+        },
+        "AVM": {
+          "Demirören AVM": ["demirorenavm.com.tr"]
+        },
+        "Enerji": {
+          "Türkpetrol": ["turkpetrol.com.tr"],
+          "Likidgaz": ["likidgaz.com.tr"],
+          "Milangaz": ["milangaz.com.tr"]
+        },
+        "Medya": {
+          "TRT": ["trt.com.tr"],
+          "TGRT": ["tgrt.com.tr"],
+          "CNN TÜRK": ["cnnturk.com"]
+        },
+        "Şans Oyunları": {
+          "Milli Piyango": ["millipiyango.gov.tr"],
+          "İddia com": ["iddia.com"],
+          "Misli com": ["misli.com"]
+        },
+        "Turizm": {
+          "ETS Tur": ["etstur.com"]
+        }
+      }
+    }
   },
   "lastUpdated": "2025-03-25"
 }
