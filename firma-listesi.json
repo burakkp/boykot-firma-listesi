@@ -66,6 +66,33 @@
         }
       }
     },
+    "Turkuvaz Medya Grubu": {
+      "Televizyon": {
+          "ATV": ["atv.com.tr"],
+          "A Haber": ["ahaber.com.tr"],
+          "A Spor": ["aspor.com.tr"],
+          "A2": ["a2tv.com.tr"],
+          "Minika GO": ["minika.com.tr"],
+          "Minika ÇOCUK": ["minika.com.tr"]
+        },
+        "Radyo": {
+          "Radyo Turkuvaz": ["radyoturkuvaz.com.tr"],
+          "Romantik Radyo": ["romantikradyo.com.tr"],
+          "Turkuvaz Efsane": ["turkuvazefsane.com.tr"]
+        },
+        "Gazete": {
+          "Sabah": ["sabah.com.tr"],
+          "Takvim": ["takvim.com.tr"],
+          "Yeni Asır": ["yeniasir.com.tr"],
+          "Fotomaç": ["fotomac.com.tr"]
+        },
+        "Dijital": {
+          "Teknokulis": ["teknokulis.com"]
+        },
+        "Kitap ve Kırtasiye": {
+          "D&R": ["dr.com.tr"]
+        }
+    },
     "Diğer Firmalar": {
       "domain": [],
       "kategori": "Diger",
@@ -74,7 +101,6 @@
           "Espressolab": ["espressolab.com"]
         },
         "Kitap ve Kültür": {
-          "D&R": ["dr.com.tr"],
           "İdefix": ["idefix.com"]
         },
         "Mobilya": {
@@ -91,14 +117,6 @@
           "TRT": ["trt.com.tr"],
           "TGRT": ["tgrt.com.tr"],
           "İhlas Haber Ajansı": ["iha.com.tr"],
-          "ATV": ["atv.com.tr"],
-          "AHABER": ["ahaber.com.tr"],
-          "Turkuvaz Medya Grubu": ["turkuvazmedyagrubu.com.tr"],
-          "Sabah": ["sabah.com.tr"]
-        },
-        "Şans Oyunları": {          
-          "İddia com": ["iddia.com"],
-          "Misli com": ["misli.com"]
         },
         "Turizm": {
           "ETS Tur": ["etstur.com"]
