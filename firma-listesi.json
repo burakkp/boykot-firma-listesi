@@ -46,18 +46,22 @@
           "İstikbal": ["istikbal.com.tr"],
           "Kilim Mobilya": ["kilimmobilya.com.tr"]
         },
+        "Ev Aletleri": {
+          "İhlas Ev Aletleri A.Ş.": ["iea.com.tr"]
+        },
         "AVM": {
           "Demirören AVM": ["demirorenavm.com.tr"]
-        },
-        "Enerji": {
-          "Türkpetrol": ["turkpetrol.com.tr"],
-          "Likidgaz": ["likidgaz.com.tr"],
-          "Milangaz": ["milangaz.com.tr"]
         },
         "Medya": {
           "TRT": ["trt.com.tr"],
           "TGRT": ["tgrt.com.tr"],
-          "CNN TÜRK": ["cnnturk.com"]
+          "CNN TÜRK": ["cnnturk.com"],
+          "İhlas Haber Ajansı": ["iha.com.tr"],
+          "DHA | Demirören Haber Ajansı": ["dha.com.tr"],
+          "ATV": ["atv.com.tr"],
+          "AHABER": ["ahaber.com.tr"],
+          "Kanal D": ["kanald.com.tr"],
+          "Turkuvaz Medya Grubu": ["turkuvazmedyagrubu.com.tr"]
         },
         "Şans Oyunları": {
           "Milli Piyango": ["millipiyango.gov.tr"],
