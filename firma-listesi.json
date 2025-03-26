@@ -35,19 +35,6 @@
       "domain": ["demiroren.com.tr"],
       "kategori": "Tepe Şirket",
       "altFirmalar": {
-        "Enerji": {
-          "Milangaz": ["milangaz.com.tr"],
-          "Moil": ["moil.com.tr"],
-          "Total Oil Türkiye": ["totalenergies.com.tr"],
-          "Likidgaz": ["likidgaz.com.tr"],
-          "Mutfakgaz": ["mutfakgaz.com.tr"],
-          "Güneşgaz": ["gunesgaz.com.tr"],
-          "Kaan Akaryakıt": ["kaanakaryakit.com.tr"],
-          "Demirören Axpo Enerji": ["axpo.com.tr"],
-          "Demirören Axpo Gaz": ["axpo.com.tr"],
-          "Demirören Jeotermal": ["demirorenjeotermal.com.tr"],
-          "Demirören Tüp": ["demirorentup.com.tr"]
-        },
         "Medya": {
           "Hürriyet": ["hurriyet.com.tr"],
           "Milliyet": ["milliyet.com.tr"],
@@ -62,34 +49,20 @@
         },
         "Turizm": {
           "Kemer Country Club": ["kemercountry.com"],
-          "Kemer Country Hotel": ["kemercountryhotel.com"],
-          "ETS Tur": ["etstur.com"],
-          "Su-Tur": ["sutur.com.tr"]
-        },
-        "Gayrimenkul": {
-          "Demirören İstiklal AVM": ["demirorenistiklal.com"],
-          "Lidya Flats": ["lidyayapi.com"],
-          "Seyhan Park Evleri": ["seyhanparkevleri.com"]
+          "Kemer Country Hotel": ["kemercountryhotel.com"]
         },
         "Sanayi": {
-          "Demirören Ağır Metal": ["demirorenagirmetal.com.tr"],
           "Parsat Piston": ["parsat.com.tr"],
-          "MS Motor Servis": ["msmotorservice.com.tr"],
-          "D-Mermer": ["dmermer.com.tr"],
-          "Marmara Gıda": ["marmaragida.com.tr"]
+          "MS Motor Servis": ["msmotorservice.com.tr"]
         },
         "Şans Oyunları": {
+          "Milli Piyango": ["millipiyango.gov.tr"],
           "Misli": ["misli.com"],
           "Sisal Şans": ["sisalsans.com"],
           "İddaa": ["iddaa.com"]
         },
         "Lojistik ve Diğer": {
-          "DH Lojistik": ["dhlojistik.com.tr"],
-          "Demir Cargo": ["demircargo.com.tr"],
-          "Sanstech": ["sanstech.com.tr"],
-          "Makro Market": ["makromarket.com.tr"],
-          "Uyum Gıda": ["uyumgida.com.tr"],
-          "Kilim Mobilya": ["kilimmobilya.com.tr"]
+          "Demir Cargo": ["demircargo.com"]
         }
       }
     },
@@ -126,8 +99,7 @@
           "Turkuvaz Medya Grubu": ["turkuvazmedyagrubu.com.tr"],
           "Sabah": ["sabah.com.tr"]
         },
-        "Şans Oyunları": {
-          "Milli Piyango": ["millipiyango.gov.tr"],
+        "Şans Oyunları": {          
           "İddia com": ["iddia.com"],
           "Misli com": ["misli.com"]
         },
