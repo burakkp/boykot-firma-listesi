@@ -90,12 +90,9 @@
         "Medya": {
           "TRT": ["trt.com.tr"],
           "TGRT": ["tgrt.com.tr"],
-          "CNN TÜRK": ["cnnturk.com"],
           "İhlas Haber Ajansı": ["iha.com.tr"],
-          "DHA | Demirören Haber Ajansı": ["dha.com.tr"],
           "ATV": ["atv.com.tr"],
           "AHABER": ["ahaber.com.tr"],
-          "Kanal D": ["kanald.com.tr"],
           "Turkuvaz Medya Grubu": ["turkuvazmedyagrubu.com.tr"],
           "Sabah": ["sabah.com.tr"]
         },
