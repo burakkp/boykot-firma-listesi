@@ -271,47 +271,39 @@
             }
           },
           "Kemer Country Hotel": {
-            "domains": ["kemercountryhotel.com"],
+            "domains": ["kemercountry.com"],
             "socialMedia": {
-              "twitter": "",
-              "instagram": "kemercountryhotel",
-              "facebook": ""
+              "twitter": "KemerCountryC",
+              "instagram": "kemercountryclub",
+              "facebook": "KemerCountryClub"
             }
           }
         },
         "Sanayi": {
-          "Parsat Piston": {
-            "domains": ["parsat.com.tr"],
-            "socialMedia": {
-              "twitter": "",
-              "instagram": "",
-              "facebook": ""
-            }
-          },
           "MS Motor Servis": {
             "domains": ["msmotorservice.com.tr"],
             "socialMedia": {
-              "twitter": "MSMotorServis",
-              "instagram": "msmotorservis",
-              "facebook": "MSMotorServis"
+              "twitter": "msmotorservice",
+              "instagram": "motorservice_group",
+              "facebook": "MotorServiceGroup"
             }
           }
         },
         "Şans Oyunları": {
           "Milli Piyango": {
-            "domains": ["millipiyango.gov.tr"],
+            "domains": ["mpi.gov.tr"],
             "socialMedia": {
-              "twitter": "MilliPiyangoTR",
-              "instagram": "millipiyangoonline",
-              "facebook": "MilliPiyangoOnline"
+              "twitter": "MpiKurumsal",
+              "instagram": "mpikurumsal",
+              "facebook": "mpikurumsal"
             }
           },
           "Misli": {
             "domains": ["misli.com"],
             "socialMedia": {
-              "twitter": "MisliResmi",
-              "instagram": "misliresmi",
-              "facebook": "MisliResmi"
+              "twitter": "mislicom",
+              "instagram": "mislicom",
+              "facebook": "profile.php?id=100050416392948"
             }
           },
           "Sisal Şans": {
