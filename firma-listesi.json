@@ -67,7 +67,10 @@
       }
     },
     "Turkuvaz Medya Grubu": {
-      "Televizyon": {
+      "domain": ["yildizholding.com.tr"],
+      "kategori": "Tepe Şirket",
+      "altFirmalar":{
+       "Televizyon": {
           "ATV": ["atv.com.tr"],
           "A Haber": ["ahaber.com.tr"],
           "A Spor": ["aspor.com.tr"],
@@ -91,7 +94,8 @@
         },
         "Kitap ve Kırtasiye": {
           "D&R": ["dr.com.tr"]
-        }
+        } 
+      }
     },
     "Diğer Firmalar": {
       "domain": [],
