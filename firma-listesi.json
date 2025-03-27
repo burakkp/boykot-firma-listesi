@@ -3,98 +3,485 @@
     "Yıldız Holding": {
       "domain": ["yildizholding.com.tr"],
       "kategori": "Tepe Şirket",
+      "socialMedia": {
+        "twitter": "YildizHoldingTR",
+        "instagram": "yildizholding",
+        "facebook": "YILDIZHOLDING",
+        "youtube": "YILDIZHOLDING"
+      },
       "altFirmalar": {
         "Gıda ve Atıştırmalık": {
-          "Ülker": ["ulker.com.tr"],
-          "pladis": ["pladisglobal.com"],
-          "Godiva": ["godiva.com"],
-          "United Biscuits": ["unitedbiscuits.com", "mcvities.com", "jacobs.com", "carrs.com"],
-          "DeMet’s": ["demetscandy.com"],
-          "Besler": ["besler.com.tr"],
-          "Kerevitaş": ["kerevitas.com.tr", "superfresh.com.tr"],
-          "Aytaç": ["aytac.com.tr"],
-          "Adapazarı Şeker": ["adapazariseker.com.tr"],
-          "Nissin Yıldız": ["makarneks.com"],
-          "Alpella": ["alpella.com.tr"],
-          "Obaçay": ["obacay.com.tr"],
-          "Doğa Çay": ["dogacay.com.tr"]
+          "Ülker": {
+            "domains": ["ulker.com.tr"],
+            "socialMedia": {
+              "twitter": "ulker",
+              "instagram": "ulker",
+              "facebook": "ulker"
+            }
+          },
+          "pladis": {
+            "domains": ["pladisglobal.com"],
+            "socialMedia": {
+              "twitter": "pladisglobal",
+              "instagram": "pladisglobal",
+              "facebook": "pladisglobal"
+            }
+          },
+          "Godiva": {
+            "domains": ["godiva.com"],
+            "socialMedia": {
+              "twitter": "Godiva",
+              "instagram": "godiva",
+              "facebook": "GodivaChocolates"
+            }
+          },
+          "United Biscuits": {
+            "domains": ["unitedbiscuits.com", "mcvities.com", "jacobs.com", "carrs.com"],
+            "socialMedia": {
+              "twitter": "McVities",
+              "instagram": "mcvities",
+              "facebook": "McVitiesUK"
+            }
+          },
+          "DeMet’s": {
+            "domains": ["demetscandy.com"],
+            "socialMedia": {
+              "twitter": "DemetsTurtles",
+              "instagram": "demetsturtles",
+              "facebook": "DemetsTurtles"
+            }
+          },
+          "Besler": {
+            "domains": ["besler.com.tr"],
+            "socialMedia": {
+              "twitter": "BeslerGida",
+              "instagram": "beslergida",
+              "facebook": "BeslerGida"
+            }
+          },
+          "Kerevitaş": {
+            "domains": ["kerevitas.com.tr", "superfresh.com.tr"],
+            "socialMedia": {
+              "twitter": "SuperfreshTR",
+              "instagram": "superfreshtr",
+              "facebook": "SuperfreshTR"
+            }
+          },
+          "Aytaç": {
+            "domains": ["aytac.com.tr"],
+            "socialMedia": {
+              "twitter": "AytacGida",
+              "instagram": "aytacgida",
+              "facebook": "AytacGida"
+            }
+          },
+          "Adapazarı Şeker": {
+            "domains": ["adapazariseker.com.tr"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "",
+              "facebook": ""
+            }
+          },
+          "Nissin Yıldız": {
+            "domains": ["makarneks.com"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "",
+              "facebook": ""
+            }
+          },
+          "Alpella": {
+            "domains": ["alpella.com.tr"],
+            "socialMedia": {
+              "twitter": "AlpellaTR",
+              "instagram": "alpellatr",
+              "facebook": "AlpellaTR"
+            }
+          },
+          "Obaçay": {
+            "domains": ["obacay.com.tr"],
+            "socialMedia": {
+              "twitter": "obacay",
+              "instagram": "obacay",
+              "facebook": "ObacayTR"
+            }
+          },
+          "Doğa Çay": {
+            "domains": ["dogacay.com.tr"],
+            "socialMedia": {
+              "twitter": "DogacayTR",
+              "instagram": "dogacaytr",
+              "facebook": "DogacayTR"
+            }
+          }
         },
         "Perakende": {
-          "Şok Marketler": ["sokmarket.com.tr"],
-          "Bizim Toptan": ["bizimtoptan.com.tr"],
-          "Seç Market": ["secmarket.com.tr"]
+          "Şok Marketler": {
+            "domains": ["sokmarket.com.tr"],
+            "socialMedia": {
+              "twitter": "SokMarketler",
+              "instagram": "sokmarketler",
+              "facebook": "SokMarketler"
+            }
+          },
+          "Bizim Toptan": {
+            "domains": ["bizimtoptan.com.tr"],
+            "socialMedia": {
+              "twitter": "BizimToptanTR",
+              "instagram": "bizimtoptantr",
+              "facebook": "BizimToptanTR"
+            }
+          },
+          "Seç Market": {
+            "domains": ["secmarket.com.tr"],
+            "socialMedia": {
+              "twitter": "SecMarketTR",
+              "instagram": "secmarkettr",
+              "facebook": "SecMarketTR"
+            }
+          }
         },
         "Diğer": {
-          "Penta Teknoloji": ["pentateknoloji.com.tr"],
-          "Gözde Girişim": ["gozdegirisim.com.tr"],
-          "Doruk Unlu Mamuller": ["uno.com.tr", "komsufirin.com"]
+          "Penta Teknoloji": {
+            "domains": ["pentateknoloji.com.tr"],
+            "socialMedia": {
+              "twitter": "PentaTeknoloji",
+              "instagram": "pentateknoloji",
+              "facebook": "PentaTeknoloji"
+            }
+          },
+          "Gözde Girişim": {
+            "domains": ["gozdegirisim.com.tr"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "",
+              "facebook": ""
+            }
+          },
+          "Doruk Unlu Mamuller": {
+            "domains": ["uno.com.tr", "komsufirin.com"],
+            "socialMedia": {
+              "twitter": "UnoTR",
+              "instagram": "unotr",
+              "facebook": "UnoTR"
+            }
+          }
         }
       }
     },
     "Demirören Holding": {
       "domain": ["demiroren.com.tr"],
       "kategori": "Tepe Şirket",
+      "socialMedia": {
+        "twitter": "DemirorenHolding",
+        "instagram": "demirorenholding",
+        "facebook": "DemirorenHolding"
+      },
       "altFirmalar": {
         "Medya": {
-          "Hürriyet": ["hurriyet.com.tr"],
-          "Milliyet": ["milliyet.com.tr"],
-          "Vatan": ["gazetevatan.com"],
-          "Posta": ["posta.com.tr"],
-          "Fanatik": ["fanatik.com.tr"],
-          "Kanal D": ["kanald.com.tr"],
-          "CNN Türk": ["cnnturk.com"],
-          "D-Smart": ["dsmart.com.tr"],
-          "TAY TV": ["taytv.com.tr"],
-          "DHA": ["dha.com.tr"]
+          "Hürriyet": {
+            "domains": ["hurriyet.com.tr"],
+            "socialMedia": {
+              "twitter": "Hurriyet",
+              "instagram": "hurriyetcomtr",
+              "facebook": "Hurriyet"
+            }
+          },
+          "Milliyet": {
+            "domains": ["milliyet.com.tr"],
+            "socialMedia": {
+              "twitter": "milliyetcomtr",
+              "instagram": "milliyetcomtr",
+              "facebook": "milliyet.com.tr"
+            }
+          },
+          "Vatan": {
+            "domains": ["gazetevatan.com"],
+            "socialMedia": {
+              "twitter": "gazetevatan",
+              "instagram": "gazetevatan",
+              "facebook": "gazetevatan"
+            }
+          },
+          "Posta": {
+            "domains": ["posta.com.tr"],
+            "socialMedia": {
+              "twitter": "PostaGazetesi",
+              "instagram": "postagazetesi",
+              "facebook": "PostaGazetesi"
+            }
+          },
+          "Fanatik": {
+            "domains": ["fanatik.com.tr"],
+            "socialMedia": {
+              "twitter": "fanatikcomtr",
+              "instagram": "fanatikcomtr",
+              "facebook": "fanatikcomtr"
+            }
+          },
+          "Kanal D": {
+            "domains": ["kanald.com.tr"],
+            "socialMedia": {
+              "twitter": "KanalD",
+              "instagram": "kanald",
+              "facebook": "KanalD"
+            }
+          },
+          "CNN Türk": {
+            "domains": ["cnnturk.com"],
+            "socialMedia": {
+              "twitter": "cnnturk",
+              "instagram": "cnnturk",
+              "facebook": "cnnturk"
+            }
+          },
+          "D-Smart": {
+            "domains": ["dsmart.com.tr"],
+            "socialMedia": {
+              "twitter": "DSmartTR",
+              "instagram": "dsmarttr",
+              "facebook": "DSmartTR"
+            }
+          },
+          "TAY TV": {
+            "domains": ["taytv.com.tr"],
+            "socialMedia": {
+              "twitter": "TAYTV",
+              "instagram": "taytv",
+              "facebook": "TAYTV"
+            }
+          },
+          "DHA": {
+            "domains": ["dha.com.tr"],
+            "socialMedia": {
+              "twitter": "dhainternet",
+              "instagram": "dhainternet",
+              "facebook": "dhainternet"
+            }
+          }
         },
         "Turizm": {
-          "Kemer Country Club": ["kemercountry.com"],
-          "Kemer Country Hotel": ["kemercountryhotel.com"]
+          "Kemer Country Club": {
+            "domains": ["kemercountry.com"],
+            "socialMedia": {
+              "twitter": "KemerCountry",
+              "instagram": "kemercountry",
+              "facebook": "KemerCountry"
+            }
+          },
+          "Kemer Country Hotel": {
+            "domains": ["kemercountryhotel.com"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "kemercountryhotel",
+              "facebook": ""
+            }
+          }
         },
         "Sanayi": {
-          "Parsat Piston": ["parsat.com.tr"],
-          "MS Motor Servis": ["msmotorservice.com.tr"]
+          "Parsat Piston": {
+            "domains": ["parsat.com.tr"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "",
+              "facebook": ""
+            }
+          },
+          "MS Motor Servis": {
+            "domains": ["msmotorservice.com.tr"],
+            "socialMedia": {
+              "twitter": "MSMotorServis",
+              "instagram": "msmotorservis",
+              "facebook": "MSMotorServis"
+            }
+          }
         },
         "Şans Oyunları": {
-          "Milli Piyango": ["millipiyango.gov.tr"],
-          "Misli": ["misli.com"],
-          "Sisal Şans": ["sisalsans.com"],
-          "İddaa": ["iddaa.com"]
+          "Milli Piyango": {
+            "domains": ["millipiyango.gov.tr"],
+            "socialMedia": {
+              "twitter": "MilliPiyangoTR",
+              "instagram": "millipiyangoonline",
+              "facebook": "MilliPiyangoOnline"
+            }
+          },
+          "Misli": {
+            "domains": ["misli.com"],
+            "socialMedia": {
+              "twitter": "MisliResmi",
+              "instagram": "misliresmi",
+              "facebook": "MisliResmi"
+            }
+          },
+          "Sisal Şans": {
+            "domains": ["sisalsans.com"],
+            "socialMedia": {
+              "twitter": "SisalSansTR",
+              "instagram": "sisalsanstr",
+              "facebook": "SisalSansTR"
+            }
+          },
+          "İddaa": {
+            "domains": ["iddaa.com"],
+            "socialMedia": {
+              "twitter": "iddaa",
+              "instagram": "iddaa",
+              "facebook": "iddaa"
+            }
+          }
         },
         "Lojistik ve Diğer": {
-          "Demir Cargo": ["demircargo.com"]
+          "Demir Cargo": {
+            "domains": ["demircargo.com"],
+            "socialMedia": {
+              "twitter": "",
+              "instagram": "",
+              "facebook": ""
+            }
+          }
         }
       }
     },
     "Turkuvaz Medya Grubu": {
       "domain": ["turkuvazmedyagrubu.com.tr"],
       "kategori": "Tepe Şirket",
-      "altFirmalar":{
-       "Televizyon": {
-          "ATV": ["atv.com.tr"],
-          "A Haber": ["ahaber.com.tr"],
-          "A Spor": ["aspor.com.tr"],
-          "A2": ["a2tv.com.tr"],
-          "Minika GO": ["minika.com.tr"],
-          "Minika ÇOCUK": ["minika.com.tr"]
+      "socialMedia": {
+        "twitter": "TurkuvazMedya",
+        "instagram": "turkuvazmedya",
+        "facebook": "TurkuvazMedya"
+      },
+      "altFirmalar": {
+        "Televizyon": {
+          "ATV": {
+            "domains": ["atv.com.tr"],
+            "socialMedia": {
+              "twitter": "atvcomtr",
+              "instagram": "atvcomtr",
+              "facebook": "atvcomtr"
+            }
+          },
+          "A Haber": {
+            "domains": ["ahaber.com.tr"],
+            "socialMedia": {
+              "twitter": "ahabertv",
+              "instagram": "ahabertv",
+              "facebook": "ahabertv"
+            }
+          },
+          "A Spor": {
+            "domains": ["aspor.com.tr"],
+            "socialMedia": {
+              "twitter": "asporcomtr",
+              "instagram": "asporcomtr",
+              "facebook": "asporcomtr"
+            }
+          },
+          "A2": {
+            "domains": ["a2tv.com.tr"],
+            "socialMedia": {
+              "twitter": "a2tvcomtr",
+              "instagram": "a2tvcomtr",
+              "facebook": "a2tvcomtr"
+            }
+          },
+          "Minika GO": {
+            "domains": ["minika.com.tr"],
+            "socialMedia": {
+              "twitter": "MinikaTV",
+              "instagram": "minikatv",
+              "facebook": "MinikaTV"
+            }
+          },
+          "Minika ÇOCUK": {
+            "domains": ["minika.com.tr"],
+            "socialMedia": {
+              "twitter": "MinikaTV",
+              "instagram": "minikatv",
+              "facebook": "MinikaTV"
+            }
+          }
         },
         "Radyo": {
-          "Radyo Turkuvaz": ["radyoturkuvaz.com.tr"],
-          "Romantik Radyo": ["romantikradyo.com.tr"],
-          "Turkuvaz Efsane": ["turkuvazefsane.com.tr"]
+          "Radyo Turkuvaz": {
+            "domains": ["radyoturkuvaz.com.tr"],
+            "socialMedia": {
+              "twitter": "RadyoTurkuvaz",
+              "instagram": "radyoturkuvaz",
+              "facebook": "RadyoTurkuvaz"
+            }
+          },
+          "Romantik Radyo": {
+            "domains": ["romantikradyo.com.tr"],
+            "socialMedia": {
+              "twitter": "RomantikRadyo",
+              "instagram": "romantikradyo",
+              "facebook": "RomantikRadyo"
+            }
+          },
+          "Turkuvaz Efsane": {
+            "domains": ["turkuvazefsane.com.tr"],
+            "socialMedia": {
+              "twitter": "TurkuvazEfsane",
+              "instagram": "turkuvazefsane",
+              "facebook": "TurkuvazEfsane"
+            }
+          }
         },
         "Gazete": {
-          "Sabah": ["sabah.com.tr"],
-          "Takvim": ["takvim.com.tr"],
-          "Yeni Asır": ["yeniasir.com.tr"],
-          "Fotomaç": ["fotomac.com.tr"]
+          "Sabah": {
+            "domains": ["sabah.com.tr"],
+            "socialMedia": {
+              "twitter": "Sabah",
+              "instagram": "sabahgazetesi",
+              "facebook": "Sabah"
+            }
+          },
+          "Takvim": {
+            "domains": ["takvim.com.tr"],
+            "socialMedia": {
+              "twitter": "takvim",
+              "instagram": "takvim",
+              "facebook": "takvim"
+            }
+          },
+          "Yeni Asır": {
+            "domains": ["yeniasir.com.tr"],
+            "socialMedia": {
+              "twitter": "YeniAsir",
+              "instagram": "yeniasir",
+              "facebook": "YeniAsir"
+            }
+          },
+          "Fotomaç": {
+            "domains": ["fotomac.com.tr"],
+            "socialMedia": {
+              "twitter": "fotomac",
+              "instagram": "fotomac",
+              "facebook": "fotomac"
+            }
+          }
         },
         "Dijital": {
-          "Teknokulis": ["teknokulis.com"]
+          "Teknokulis": {
+            "domains": ["teknokulis.com"],
+            "socialMedia": {
+              "twitter": "Teknokulis",
+              "instagram": "teknokulis",
+              "facebook": "Teknokulis"
+            }
+          }
         },
         "Kitap ve Kırtasiye": {
-          "D&R": ["dr.com.tr"]
-        } 
+          "D&R": {
+            "domains": ["dr.com.tr"],
+            "socialMedia": {
+              "twitter": "DRDunyasi",
+              "instagram": "drdunyasi",
+              "facebook": "DRDunyasi"
+            }
+          }
+        }
       }
     },
     "Diğer Firmalar": {
@@ -102,28 +489,98 @@
       "kategori": "Diger",
       "altFirmalar": {
         "Kahve": {
-          "Espressolab": ["espressolab.com"]
+          "Espressolab": {
+            "domains": ["espressolab.com"],
+            "socialMedia": {
+              "twitter": "EspressolabTR",
+              "instagram": "espressolab",
+              "facebook": "EspressolabTR"
+            }
+          }
         },
         "Kitap ve Kültür": {
-          "İdefix": ["idefix.com"]
+          "İdefix": {
+            "domains": ["idefix.com"],
+            "socialMedia": {
+              "twitter": "idefixcom",
+              "instagram": "idefixcom",
+              "facebook": "idefixcom"
+            }
+          }
         },
         "Mobilya": {
-          "İstikbal": ["istikbal.com.tr"],
-          "Kilim Mobilya": ["kilimmobilya.com.tr"]
+          "İstikbal": {
+            "domains": ["istikbal.com.tr"],
+            "socialMedia": {
+              "twitter": "IstikbalTR",
+              "instagram": "istikbaltr",
+              "facebook": "IstikbalTR"
+            }
+          },
+          "Kilim Mobilya": {
+            "domains": ["kilimmobilya.com.tr"],
+            "socialMedia": {
+              "twitter": "KilimMobilya",
+              "instagram": "kilimmobilya",
+              "facebook": "KilimMobilya"
+            }
+          }
         },
         "Ev Aletleri": {
-          "İhlas Ev Aletleri A.Ş.": ["iea.com.tr"]
+          "İhlas Ev Aletleri A.Ş.": {
+            "domains": ["iea.com.tr"],
+            "socialMedia": {
+              "twitter": "IhlasEvAletleri",
+              "instagram": "ihlasevaletleri",
+              "facebook": "IhlasEvAletleri"
+            }
+          }
         },
         "AVM": {
-          "Demirören AVM": ["demirorenavm.com.tr"]
+          "Demirören AVM": {
+            "domains": ["demirorenavm.com.tr"],
+            "socialMedia": {
+              "twitter": "DemirorenAVM",
+              "instagram": "demirorenavm",
+              "facebook": "DemirorenAVM"
+            }
+          }
         },
         "Medya": {
-          "TRT": ["trt.com.tr"],
-          "TGRT": ["tgrt.com.tr"],
-          "İhlas Haber Ajansı": ["iha.com.tr"]
+          "TRT": {
+            "domains": ["trt.com.tr"],
+            "socialMedia": {
+              "twitter": "trt",
+              "instagram": "trt",
+              "facebook": "trt"
+            }
+          },
+          "TGRT": {
+            "domains": ["tgrt.com.tr"],
+            "socialMedia": {
+              "twitter": "TGRT_Haber",
+              "instagram": "tgrthaber",
+              "facebook": "TGRT_Haber"
+            }
+          },
+          "İhlas Haber Ajansı": {
+            "domains": ["iha.com.tr"],
+            "socialMedia": {
+              "twitter": "ihacomtr",
+              "instagram": "ihacomtr",
+              "facebook": "ihacomtr"
+            }
+          }
         },
         "Turizm": {
-          "ETS Tur": ["etstur.com"]
+          "ETS Tur": {
+            "domains": ["etstur.com"],
+            "socialMedia": {
+              "twitter": "ETSTur",
+              "instagram": "etstur",
+              "facebook": "ETSTur"
+            }
+          }
         }
       }
     }
